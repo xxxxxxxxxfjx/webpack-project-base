@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkChartJs=self.webpackChunkChartJs||[]).push([[792],{681:function(){console.log("b");Promise.resolve().then((()=>{console.log("hello promise")}))}},function(e){var s;s=681,e(e.s=s)}]);
+//# sourceMappingURL=main.83c70327.js.map
